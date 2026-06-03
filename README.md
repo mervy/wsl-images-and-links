@@ -1,4 +1,4 @@
-# wsl-images-and-links
+# Links para imagens WSL e comandos atualizados
 
 Catálogo de links diretos para imagens WSL em `.wsl`, com downloads atualizados de várias distribuições Linux.
 
