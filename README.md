@@ -1,8 +1,10 @@
 # wsl-images-and-links
 
-Encontrei links diretos para imagens WSL no formato `.wsl` de várias distribuições, para baixar e instalar no WSL sem precisar usar a Microsoft Store.
+Catálogo de links diretos para imagens WSL em `.wsl`, com downloads atualizados de várias distribuições Linux.
 
-As URLs foram obtidas de fontes oficiais e de manifesto do WSL (`DistributionInfo.json`), com exceção de Gentoo, que não está no catálogo oficial.
+Este repositório reúne URLs para instalar Debian, Fedora, Arch, openSUSE, NixOS e outras distros no WSL sem precisar passar pela Microsoft Store.
+
+Também inclui os comandos para instalar com nome e localização personalizados, permitindo usar distros do catálogo sem ficar preso ao AppData padrão do WSL.
 
 ## Como usar
 
